@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;springboot-kafka-example&apos;" deleteContents="true" description="Delete resource &apos;springboot-kafka-example&apos;" element1="/springboot-kafka-example" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544760993057"/>
+</session>

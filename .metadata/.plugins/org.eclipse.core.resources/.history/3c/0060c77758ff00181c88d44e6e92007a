@@ -1,0 +1,7 @@
+public class Greeting {
+ 
+    private String msg;
+    private String name;
+ 
+    // standard getters, setters and constructor
+}

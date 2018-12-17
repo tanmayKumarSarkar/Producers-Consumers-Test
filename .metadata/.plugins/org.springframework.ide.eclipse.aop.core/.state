@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Kafka-Producers"/>
+<aop-project name="demo"/>
+<aop-project name="spring-boot-kafka-consumer-example"/>
+<aop-project name="kafka-demo2"/>
+<aop-project name="Kafka-Consumers"/>
+</aop-reference-model>
